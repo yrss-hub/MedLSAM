@@ -40,3 +40,6 @@ data_process/Totalseg_transfer_label.py
 
 # Ignore nnDet_WPL_Inference code
 nnDet_WPL_Inference.py
+
+data
+medlsam.egg-info
